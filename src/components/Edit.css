@@ -1,0 +1,31 @@
+.container {
+    background-color: rgb(253, 250, 199);
+    width: 300px;
+    height: 230px;
+    position: absolute;
+    right: 120px;
+    top: 160px;
+    border-radius: 8px;
+}
+
+.btn-box-edit {
+    width: 300px;
+    height: 35px;
+}
+
+.btn-edit-stock {
+    width: 300px;
+    height: 35px;
+    border: none;
+    background-color: rgb(253, 123, 1);
+    font-family: 'Prompt', sans-serif;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+.btn-edit-stock:hover {
+    cursor: pointer;
+    background-color: rgb(253, 93, 1);
+    color: white;
+}
+

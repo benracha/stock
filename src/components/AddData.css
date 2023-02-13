@@ -1,0 +1,64 @@
+.add-stock {
+    background-color: rgb(220, 247, 220);
+    width: 300px;
+    height: 240px;
+    position: absolute;
+    right: 20px;
+    font-size: 16px;
+    border-radius: 8px;
+    top: 50px;
+    
+}
+
+.box-list {
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+.name-list {
+    width: 300px;
+    height: 30px;
+    margin-bottom: 10px;
+    display: flex;
+}
+
+.text {
+    padding-top: 3px;
+    width: 120px;
+    height: 30px;
+}
+
+.box-input {
+    padding-top: 3px;
+    width: 200px;
+    height: 30px;
+}
+
+.input {
+    width: 150px;
+    height: 20px;
+    padding-top: 5px;
+}
+
+.btn-box-add {
+    width: 300px;
+    height: 35px;
+}
+
+.btn-add-stock {
+    width: 300px;
+    height: 35px;
+    border: none;
+    background-color: rgb(98, 230, 98);
+    font-family: 'Prompt', sans-serif;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+.btn-add-stock:hover {
+    cursor: pointer;
+    background-color: rgb(4, 153, 4);
+    color: white;
+}
+
+
