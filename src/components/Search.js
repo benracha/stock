@@ -119,7 +119,7 @@ function Search() {
             </div>
             <hr />
             <div className="search">
-                <div className="text-search">ค้นหารายการสินค้า</div>
+                <div className="text-search">ค้นหารายการสินค้าา</div>
                 <input className="input-search"
                     onChange={event => setSearchBar(event.target.value)}
                 />
